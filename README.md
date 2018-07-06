@@ -1,12 +1,11 @@
 # Management
 Progress report
 
-#Java 
+# Java 
 
-#C+
-
-## https://github.com/EeshaSharma/MPS_Intenship_EeshaS/blob/master/MPS_Task_1.cpp
+# C+
+https://github.com/EeshaSharma/MPS_Intenship_EeshaS/blob/master/MPS_Task_1.cpp
   
-#JavaScript
+# avaScript
 
-#Python
+# Python
